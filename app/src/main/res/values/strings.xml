@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginConst</string>
+    <string name="user_name">user_name</string>
+    <string name="login">Login</string>
+    <string name="Login">login</string>
+    <string name="password">password</string>
+    <string name="Password">Password</string>
+    <string name="User_name">User Name</string>
+</resources>
